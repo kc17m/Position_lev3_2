@@ -13,13 +13,12 @@ Verwende em Werte für die top und right Werte des Schließen-Buttons. */
 }
 
 body {
-    height: 100vh;
-    width: 100vw;
+    height: 100vh;    
     background: url(../img/photo-1474511320723-9a56873867b5.jpeg) no-repeat center/cover;
 }
 
 section {    
-     padding: 33% 50%;
+     padding: 33%;
     
 }
 
